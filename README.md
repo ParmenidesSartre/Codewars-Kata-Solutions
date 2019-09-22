@@ -2,7 +2,7 @@
 ## Javascript
 **7 Kyu**
 
-| Kata's Names    | Link  |
+| Kata   | Codewars Links  |
 |----------------|------------------------------------------------------------------------------|
 | Printer's Error     |    https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript   |
 | 55 - 74 years  |     16.16     |
